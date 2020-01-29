@@ -1,0 +1,204 @@
+#header {
+    border: 0;
+}
+
+#header-bottom-left {
+    background-color: #ebebeb;
+    border-bottom-width: 1px;
+    border-color: #ff00ff;
+    margin-bottom: 20px;
+}
+
+#header-bottom-right {
+    background-color: #ffffff;
+}
+
+#sr-more-link {
+    background-color: #ffffff;
+}
+
+a.author {
+    color: #d11919;
+}
+
+a.beta-link {
+    display: none;
+}
+
+a.choice {
+    background-color: #ffffff;
+    border: 0;
+    border-color: #6b6b6b;
+    font-weight: normal;
+}
+
+a.default-header {
+    visibility: hidden;
+    width: 10px;
+}
+
+a.thumbnail {
+    background-color: #999;
+    background-position: center;
+    border-radius: 20px;
+    height: 40px;
+    margin-right: 15px;
+    width: 40px;
+}
+
+a.title {
+    color: #2774b8;
+    font-size: 15px;
+}
+
+a.title.may-blank.loggedin {
+    color: #2774b8;
+}
+
+body, div, span, table, tr, td, a {
+    font-weight: normal;
+}
+
+button.redesign-beta-optin {
+    display: none;
+}
+
+div.content {
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    max-width: 1080px;
+    width: 100%;
+}
+
+div.dropdown.srdrop {
+    background-color: #ffffff;
+}
+
+div.expando-button.hide-when-pinned {
+    background-image: url('');
+    height: 1px;
+    margin-right: 10px;
+    margin-top: 0px;
+    width: 1px;
+}
+
+div.expando-button.hide-when-pinned::after {
+    color: #666;
+    content: "+";
+}
+
+div.grippy {
+    display: none;
+}
+
+div.listing-chooser.initialized {
+    background-color: #ffffff;
+    display: none;
+}
+
+div.midcol {
+    opacity: 0;
+}
+
+div.sitetable.linklisting {
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    max-width: 1080px;
+    width: 100%;
+}
+
+div.sr-list {
+    background-color: #ffffff;
+}
+
+div.thing:hover div.midcol {
+    opacity: .5;
+}
+
+div.trending-subreddits {
+    display: none;
+}
+
+span.flairrichtext.flaircolordark.linkflairlabel {
+    display: none;
+}
+
+span.flairrichtext.flaircolorlight.linkflairlabel {
+    display: none;
+}
+
+span.rank {
+    display: none;
+}
+
+form.premium-banner {
+    display: none;
+}
+
+ul.content {
+    display: none;
+}
+
+div.subtitle {
+    display: none;
+}
+
+div.title {
+    display: none;
+}
+
+div.nub {
+    display: none;
+}
+
+a.login-required.access-required {
+    background-color: #fff;
+    font-weight: normal;
+    margin: 0;
+    text-align: left;
+    padding-left: 10px;
+    width: 287px;
+}
+
+a.login-required.access-required:hover {
+    color: #366797;
+}
+
+div.account-activity-box p {
+    display: none;
+}
+
+div.titlebox {
+    display: none;
+}
+
+a.helplink.access-required {
+    display: none;
+}
+
+div.sidebox.create {
+    display: none;
+}
+
+#search input {
+    border-color: #C5DCF0;
+    text-transform: capitalize;
+}
+
+a.give-gold.login-required.access-required.gold-give-gold {
+    display: none;
+}
+
+li.report-button.login-required {
+    margin-left: -8px;
+}
+
+::placeholder {
+    color: #366797;
+    font-size: 15px;
+}
+
